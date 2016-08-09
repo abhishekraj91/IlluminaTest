@@ -1,2 +1,0 @@
-<apex:page controller="APPR_MTV.SelectAssociationOnRecordController" action="{!addPreferredAccountAssociation}">
-</apex:page>
