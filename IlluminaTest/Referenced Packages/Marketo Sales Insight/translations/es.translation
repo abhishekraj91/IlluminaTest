@@ -1,0 +1,1195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customLabels>
+        <label>Y</label>
+        <name>AND</name>
+    </customLabels>
+    <customLabels>
+        <label>Clave secreta de API</label>
+        <name>API_Secret_Key</name>
+    </customLabels>
+    <customLabels>
+        <label>URL de API</label>
+        <name>API_URL</name>
+    </customLabels>
+    <customLabels>
+        <label>Identificación del usuario de API</label>
+        <name>API_User_Id</name>
+    </customLabels>
+    <customLabels>
+        <label>Se envió un correo electrónico de prueba a {0}</label>
+        <name>A_test_email_has_been_sent_to_X</name>
+    </customLabels>
+    <customLabels>
+        <label>Acceso al analizador de influencia de oportunidades de Marketo</label>
+        <name>Access_the_Marketo_Opportunity_Influence_Analyzer</name>
+    </customLabels>
+    <customLabels>
+        <label>Cuenta</label>
+        <name>Account</name>
+    </customLabels>
+    <customLabels>
+        <label>Cuenta</label>
+        <name>Account_Name_Header</name>
+    </customLabels>
+    <customLabels>
+        <label>Acciones</label>
+        <name>Actions</name>
+    </customLabels>
+    <customLabels>
+        <label>Agregar</label>
+        <name>Add</name>
+    </customLabels>
+    <customLabels>
+        <label>Agregar cualquier lead o contacto a su lista de observación.</label>
+        <name>Add_any_leads_or_contacts_to_your_Watch_List</name>
+    </customLabels>
+    <customLabels>
+        <label>Agregar a la campaña de Marketo</label>
+        <name>Add_to_Marketo_Campaign</name>
+    </customLabels>
+    <customLabels>
+        <label>Agregar a la lista de observación</label>
+        <name>Add_to_Watch_List</name>
+    </customLabels>
+    <customLabels>
+        <label>Agregado a la lista de observación</label>
+        <name>Added_to_watch_list</name>
+    </customLabels>
+    <customLabels>
+        <label>Todas las pruebas aprobadas: ¡Su Marketo Sales Insight se configuró adecuadamente!</label>
+        <name>All_Tests_Passed_Your_Marketo_Sales_Insight_is_properly_configured</name>
+    </customLabels>
+    <customLabels>
+        <label>Siempre utilice HTTPS para la URL de API y la configuración de su sitio remoto.</label>
+        <name>Always_use_HTTPS_for_the_API_URL_and_your_remote_site_settings</name>
+    </customLabels>
+    <customLabels>
+        <label>Actividad anónima en la Web</label>
+        <name>Anon_Web_Activity</name>
+    </customLabels>
+    <customLabels>
+        <label>Actividad anónima en la Web</label>
+        <name>Anonymous_Web_Activity</name>
+    </customLabels>
+    <customLabels>
+        <label>Marketo Sales Insight</label>
+        <name>Application_Title</name>
+    </customLabels>
+    <customLabels>
+        <label>Se produjo un error en la autenticación</label>
+        <name>Authentication_failed</name>
+    </customLabels>
+    <customLabels>
+        <label>Se produjo un error en la autenticación. Consulte la configuración de su Marketo Sales Insight</label>
+        <name>Authentication_failed_Check_your_Marketo_Sales_Insight_config</name>
+    </customLabels>
+    <customLabels>
+        <label>Campos de contactos disponibles</label>
+        <name>Available_Contact_Fields</name>
+    </customLabels>
+    <customLabels>
+        <label>Campos de leads disponibles</label>
+        <name>Available_Lead_Fields</name>
+    </customLabels>
+    <customLabels>
+        <label>Volver</label>
+        <name>Back</name>
+    </customLabels>
+    <customLabels>
+        <label>Opciones más probables</label>
+        <name>Best_Bet</name>
+    </customLabels>
+    <customLabels>
+        <label>Opciones más probables</label>
+        <name>Best_Bets</name>
+    </customLabels>
+    <customLabels>
+        <label>Modo de depuración de las opciones más probables</label>
+        <name>Best_Bets_Debug_Mode</name>
+    </customLabels>
+    <customLabels>
+        <label>El nombre de vista de las opciones más probables no puede estar vacío</label>
+        <name>Best_Bets_View_Name_cannot_be_empty</name>
+    </customLabels>
+    <customLabels>
+        <label>Calidad máxima</label>
+        <name>Best_Quality</name>
+    </customLabels>
+    <customLabels>
+        <label>Campaña</label>
+        <name>Campaign</name>
+    </customLabels>
+    <customLabels>
+        <label>Nombre de la campaña</label>
+        <name>Campaign_Name</name>
+    </customLabels>
+    <customLabels>
+        <label>Cancelar</label>
+        <name>Cancel</name>
+    </customLabels>
+    <customLabels>
+        <label>Cancelación rápida</label>
+        <name>Cancel_Fast</name>
+    </customLabels>
+    <customLabels>
+        <label>Causa</label>
+        <name>Cause</name>
+    </customLabels>
+    <customLabels>
+        <label>Cambiar</label>
+        <name>Change</name>
+    </customLabels>
+    <customLabels>
+        <label>Cambió {0} de &quot;{1}&quot; a &quot;{2}&quot;</label>
+        <name>Changed_ScoreName_from_oldValue_to_newValue</name>
+    </customLabels>
+    <customLabels>
+        <label>Elegir campaña</label>
+        <name>Choose_Campaign</name>
+    </customLabels>
+    <customLabels>
+        <label>Elegir territorio</label>
+        <name>Choose_Territory</name>
+    </customLabels>
+    <customLabels>
+        <label>Elija una campaña</label>
+        <name>Choose_a_campaign</name>
+    </customLabels>
+    <customLabels>
+        <label>Elija su territorio</label>
+        <name>Choose_your_territory</name>
+    </customLabels>
+    <customLabels>
+        <label>Elija su territorio para ver actividad anónima en la Web</label>
+        <name>Choose_your_territory_to_view_anonymous_web_activity</name>
+    </customLabels>
+    <customLabels>
+        <label>Haga clic para ordenar</label>
+        <name>Click_to_sort</name>
+    </customLabels>
+    <customLabels>
+        <label>Hizo clic en</label>
+        <name>Clicked</name>
+    </customLabels>
+    <customLabels>
+        <label>Hizo clic en el vínculo del correo electrónico</label>
+        <name>Clicked_link_in_email</name>
+    </customLabels>
+    <customLabels>
+        <label>Cerrar</label>
+        <name>Close</name>
+    </customLabels>
+    <customLabels>
+        <label>Compañía</label>
+        <name>Company</name>
+    </customLabels>
+    <customLabels>
+        <label>y su página de configuración de la Marketo Sales Insight cuando se comunique con el soporte técnico.</label>
+        <name>Config_page_when_contacting_support</name>
+    </customLabels>
+    <customLabels>
+        <label>Error de configuración. Consulte la configuración de su Marketo Sales Insight</label>
+        <name>Configuration_error_Check_your_Marketo_Sales_Insight_config</name>
+    </customLabels>
+    <customLabels>
+        <label>Configure la configuración del API de Marketo y las opciones de la Sales Insight</label>
+        <name>Configure_your_Marketo_API_settings_and_Sales_Insight_options</name>
+    </customLabels>
+    <customLabels>
+        <label>Campo de estado del contacto</label>
+        <name>Contact_Status_Field</name>
+    </customLabels>
+    <customLabels>
+        <label>{0} no tiene una dirección de correo electrónico</label>
+        <name>Contact_does_not_have_an_email_address</name>
+    </customLabels>
+    <customLabels>
+        <label>Crear vista nueva</label>
+        <name>Create_New_View</name>
+    </customLabels>
+    <customLabels>
+        <label>Personalizar vistas</label>
+        <name>Custom_Views</name>
+    </customLabels>
+    <customLabels>
+        <label>Fecha</label>
+        <name>Date</name>
+    </customLabels>
+    <customLabels>
+        <label>Ocultar predeterminado</label>
+        <name>Default_Hide</name>
+    </customLabels>
+    <customLabels>
+        <label>Eliminar</label>
+        <name>Delete</name>
+    </customLabels>
+    <customLabels>
+        <label>Entregado por la campaña de Marketo</label>
+        <name>Delivered_by_Marketo_campaign</name>
+    </customLabels>
+    <customLabels>
+        <label>Descripción</label>
+        <name>Description</name>
+    </customLabels>
+    <customLabels>
+        <label>¡La prueba de diagnóstico falló!</label>
+        <name>Diagnostics_Test_Failed</name>
+    </customLabels>
+    <customLabels>
+        <label>La prueba de diagnóstico se aprobó: ¡La instalación de la Sales Insight se configuró adecuadamente!</label>
+        <name>Diagnostics_Test_Passed_Your_Sales_Insight_installation_is_properly_configured</name>
+    </customLabels>
+    <customLabels>
+        <label>¿Agregó un sitio remoto al API de Marketo? (SalesForce: Configuración-&gt;Seguridad-&gt;Configuración del sitio remoto)</label>
+        <name>Did_you_add_a_remote_site_for_the_Marketo_API</name>
+    </customLabels>
+    <customLabels>
+        <label>¿Hizo clic en la casilla de verificación &quot;Habilitar el API de Marketo&quot;?</label>
+        <name>Did_you_click_the_Enable_Marketo_API_checkbox</name>
+    </customLabels>
+    <customLabels>
+        <label>¿Implementó el paquete? (SalesForce: Configuración -&gt; Ver paquetes instalados -&gt; Marketo Sales Insight -&gt; Botón Implementar</label>
+        <name>Did_you_deploy_the_package</name>
+    </customLabels>
+    <customLabels>
+        <label>¿Su configuración coincide con la de Marketo? (Marketo: Administración -&gt; Sales Insight)</label>
+        <name>Do_your_configuration_settings_match_those_in_Marketo</name>
+    </customLabels>
+    <customLabels>
+        <label>No mostrar nuevamente</label>
+        <name>Dont_show_again</name>
+    </customLabels>
+    <customLabels>
+        <label>Editar</label>
+        <name>Edit</name>
+    </customLabels>
+    <customLabels>
+        <label>Editar vista</label>
+        <name>Edit_View</name>
+    </customLabels>
+    <customLabels>
+        <label>Editar la vista</label>
+        <name>Edit_the_view</name>
+    </customLabels>
+    <customLabels>
+        <label>Deben seleccionarse contactos o leads como contenido de vista</label>
+        <name>Either_contacts_or_leads_should_be_selected_as_view_content</name>
+    </customLabels>
+    <customLabels>
+        <label>Correo electrónico</label>
+        <name>Email</name>
+    </customLabels>
+    <customLabels>
+        <label>Actividad de correo electrónico</label>
+        <name>Email_Activity</name>
+    </customLabels>
+    <customLabels>
+        <label>Suscripción a correo electrónico</label>
+        <name>Email_Subscription</name>
+    </customLabels>
+    <customLabels>
+        <label>Correo electrónico</label>
+        <name>Email_Tab</name>
+    </customLabels>
+    <customLabels>
+        <label>Carpetas de plantillas de correo electrónico</label>
+        <name>Email_Template_Folders</name>
+    </customLabels>
+    <customLabels>
+        <label>Las plantillas de correo electrónico no se encuentran disponibles</label>
+        <name>Email_templates_are_not_currently_available</name>
+    </customLabels>
+    <customLabels>
+        <label>Habilitar el API de Marketo</label>
+        <name>Enable_Marketo_API</name>
+    </customLabels>
+    <customLabels>
+        <label>Este informe requiere acceso a todos los contactos dentro de esta oportunidad. Comuníquese con su administrador para solicitar permiso.</label>
+        <name>Error_Account_Analyzer_Permissions</name>
+    </customLabels>
+    <customLabels>
+        <label>Campo</label>
+        <name>Field</name>
+    </customLabels>
+    <customLabels>
+        <label>Nombre del campo</label>
+        <name>Field_Name</name>
+    </customLabels>
+    <customLabels>
+        <label>Tipo de campo</label>
+        <name>Field_Type</name>
+    </customLabels>
+    <customLabels>
+        <label>contiene</label>
+        <name>Filter_Item_Contains</name>
+    </customLabels>
+    <customLabels>
+        <label>no contiene</label>
+        <name>Filter_Item_Does_Not_Contain</name>
+    </customLabels>
+    <customLabels>
+        <label>iguales</label>
+        <name>Filter_Item_Equals</name>
+    </customLabels>
+    <customLabels>
+        <label>más que</label>
+        <name>Filter_Item_Greater_Than</name>
+    </customLabels>
+    <customLabels>
+        <label>mayor o igual</label>
+        <name>Filter_Item_Greater_or_Equal</name>
+    </customLabels>
+    <customLabels>
+        <label>es</label>
+        <name>Filter_Item_Is</name>
+    </customLabels>
+    <customLabels>
+        <label>menor o igual</label>
+        <name>Filter_Item_Less_Or_Equal</name>
+    </customLabels>
+    <customLabels>
+        <label>menos que</label>
+        <name>Filter_Item_Less_Than</name>
+    </customLabels>
+    <customLabels>
+        <label>no es igual a</label>
+        <name>Filter_Item_Not_Equals_To</name>
+    </customLabels>
+    <customLabels>
+        <label>comienza con</label>
+        <name>Filter_Item_Starts_With</name>
+    </customLabels>
+    <customLabels>
+        <label>Filtrar por propietario</label>
+        <name>Filter_by_Owner</name>
+    </customLabels>
+    <customLabels>
+        <label>Llamas</label>
+        <name>Flames</name>
+    </customLabels>
+    <customLabels>
+        <label>¡Ir!</label>
+        <name>Go</name>
+    </customLabels>
+    <customLabels>
+        <label>Volver</label>
+        <name>Go_Back</name>
+    </customLabels>
+    <customLabels>
+        <label>Ir a la lista</label>
+        <name>Go_to_list</name>
+    </customLabels>
+    <customLabels>
+        <label>Calidad buena</label>
+        <name>Good_Quality</name>
+    </customLabels>
+    <customLabels>
+        <label>Actividad en la Web agrupada</label>
+        <name>Grouped_Web_Activity</name>
+    </customLabels>
+    <customLabels>
+        <label>Ayuda</label>
+        <name>Help</name>
+    </customLabels>
+    <customLabels>
+        <label>Ayuda para esta página</label>
+        <name>Help_for_this_Page</name>
+    </customLabels>
+    <customLabels>
+        <label>Ayuda para esta página (ventana nueva)</label>
+        <name>Help_for_this_Page_New_Window</name>
+    </customLabels>
+    <customLabels>
+        <label>Ocultar</label>
+        <name>Hide_Action</name>
+    </customLabels>
+    <customLabels>
+        <label>Ocultar opciones más probables por</label>
+        <name>Hide_Best_Bet_for</name>
+    </customLabels>
+    <customLabels>
+        <label>Caliente</label>
+        <name>Hot</name>
+    </customLabels>
+    <customLabels>
+        <label>en los {0} días anteriores</label>
+        <name>In_Past_x_days</name>
+    </customLabels>
+    <customLabels>
+        <label>en las dos semanas anteriores</label>
+        <name>In_past_two_weeks</name>
+    </customLabels>
+    <customLabels>
+        <label>Información</label>
+        <name>Info</name>
+    </customLabels>
+    <customLabels>
+        <label>Sincronizando información con Marketo. Inténtelo nuevamente en unos minutos</label>
+        <name>Information_synchronizing_with_Marketo_try_again_in_a_few_minutes</name>
+    </customLabels>
+    <customLabels>
+        <label>Se tardó demasiado en recuperar esta información. Inténtelo nuevamente en unos minutos</label>
+        <name>Information_took_too_long_to_retrieve_try_again_in_a_few_minutes</name>
+    </customLabels>
+    <customLabels>
+        <label>Momento interesante</label>
+        <name>Interesting_Moment_Header</name>
+    </customLabels>
+    <customLabels>
+        <label>Momentos interesantes</label>
+        <name>Interesting_Moments</name>
+    </customLabels>
+    <customLabels>
+        <label>Momentos interesantes</label>
+        <name>Interesting_Moments_Tab</name>
+    </customLabels>
+    <customLabels>
+        <label>Valor de búsqueda no válido</label>
+        <name>Invalid_lookup_value</name>
+    </customLabels>
+    <customLabels>
+        <label>Identificación de plantilla no válida</label>
+        <name>Invalid_template_id</name>
+    </customLabels>
+    <customLabels>
+        <label>Vista no válida</label>
+        <name>Invalid_view</name>
+    </customLabels>
+    <customLabels>
+        <label>Último momento interesante</label>
+        <name>Last_Interesting_Moment_Header</name>
+    </customLabels>
+    <customLabels>
+        <label>Última visita</label>
+        <name>Last_Visit</name>
+    </customLabels>
+    <customLabels>
+        <label>Fuente de leads</label>
+        <name>Lead_Feed</name>
+    </customLabels>
+    <customLabels>
+        <label>No hubo momentos interesantes br() en las últimas dos semanas</label>
+        <name>Lead_Feed_Empty_Message</name>
+    </customLabels>
+    <customLabels>
+        <label>Suscribirse a la fuente de leads</label>
+        <name>Lead_Feed_Subscribe</name>
+    </customLabels>
+    <customLabels>
+        <label>Lead</label>
+        <name>Lead_Name_Header</name>
+    </customLabels>
+    <customLabels>
+        <label>Aprenda cómo</label>
+        <name>Learn_how</name>
+    </customLabels>
+    <customLabels>
+        <label>Cargando Marketo...</label>
+        <name>Loading_Marketo</name>
+    </customLabels>
+    <customLabels>
+        <label>Cargando Marketo Sales Insight...</label>
+        <name>Loading_Marketo_Sales_Insight</name>
+    </customLabels>
+    <customLabels>
+        <label>Configuración del API de Marketo</label>
+        <name>Marketo_API_Settings</name>
+    </customLabels>
+    <customLabels>
+        <label>Host de Marketo</label>
+        <name>Marketo_Host</name>
+    </customLabels>
+    <customLabels>
+        <label>https://app.marketo.com/images/icons16/marketo16.png</label>
+        <name>Marketo_Logo_16</name>
+    </customLabels>
+    <customLabels>
+        <label>Análisis de oportunidades de Marketo</label>
+        <name>Marketo_Opportunity_Analysis</name>
+    </customLabels>
+    <customLabels>
+        <label>Configuración de la Marketo Sales Insight</label>
+        <name>Marketo_Sales_Insight_Config</name>
+    </customLabels>
+    <customLabels>
+        <label>Configuración de la Marketo Sales Insight</label>
+        <name>Marketo_Sales_Insight_Settings</name>
+    </customLabels>
+    <customLabels>
+        <label>No se configuró la Marketo Sales Insight</label>
+        <name>Marketo_Sales_Insight_is_not_configured</name>
+    </customLabels>
+    <customLabels>
+        <label>No se habilitó la Marketo Sales Insight</label>
+        <name>Marketo_Sales_Insight_is_not_enabled</name>
+    </customLabels>
+    <customLabels>
+        <label>Configuración de Marketo</label>
+        <name>Marketo_Settings</name>
+    </customLabels>
+    <customLabels>
+        <label>Cantidad máxima de páginas</label>
+        <name>Max_Pages</name>
+    </customLabels>
+    <customLabels>
+        <label>La cantidad máxima de páginas no puede ser mayor de 20</label>
+        <name>Maximum_Pages_cannot_be_greater_than_20</name>
+    </customLabels>
+    <customLabels>
+        <label>Se alcanzó la cantidad máxima de páginas</label>
+        <name>Maximum_pages_reached</name>
+    </customLabels>
+    <customLabels>
+        <label>Calidad media</label>
+        <name>Medium_Quality</name>
+    </customLabels>
+    <customLabels>
+        <label>Migrando configuración existente, espere...</label>
+        <name>Migrating_existing_configuration_please_wait</name>
+    </customLabels>
+    <customLabels>
+        <label>Hito</label>
+        <name>Milestone</name>
+    </customLabels>
+    <customLabels>
+        <label>Opciones para teléfono móvil</label>
+        <name>Mobile_Phone_Options</name>
+    </customLabels>
+    <customLabels>
+        <label>Mis opciones más probables</label>
+        <name>My_Best_Bets</name>
+    </customLabels>
+    <customLabels>
+        <label>Mis opciones más probables (ocultas)</label>
+        <name>My_Best_Bets_Hidden</name>
+    </customLabels>
+    <customLabels>
+        <label>Mi correo electrónico</label>
+        <name>My_Email</name>
+    </customLabels>
+    <customLabels>
+        <label>Las opciones más probables de mi equipo</label>
+        <name>My_Team_Best_Bets</name>
+    </customLabels>
+    <customLabels>
+        <label>Mi lista de observación</label>
+        <name>My_Watch_List</name>
+    </customLabels>
+    <customLabels>
+        <label>Nombre</label>
+        <name>Name</name>
+    </customLabels>
+    <customLabels>
+        <label>Página siguiente</label>
+        <name>Next_Page</name>
+    </customLabels>
+    <customLabels>
+        <label>No hay momentos interesantes</label>
+        <name>No_Interesting_Moments</name>
+    </customLabels>
+    <customLabels>
+        <label>No hay momentos interesantes para</label>
+        <name>No_Interesting_Moments_for_Message</name>
+    </customLabels>
+    <customLabels>
+        <label>Sin plantilla</label>
+        <name>No_Template</name>
+    </customLabels>
+    <customLabels>
+        <label>Sin visitantes anónimos al sitio web para</label>
+        <name>No_anonymous_web_visitors_for</name>
+    </customLabels>
+    <customLabels>
+        <label>Sin opciones más probables para</label>
+        <name>No_best_bets_for</name>
+    </customLabels>
+    <customLabels>
+        <label>Sin actividad de correo electrónico para</label>
+        <name>No_email_activity_for</name>
+    </customLabels>
+    <customLabels>
+        <label>No hay leads agregados a la lista de observación</label>
+        <name>No_leads_added_to_watch_list</name>
+    </customLabels>
+    <customLabels>
+        <label>No pueden agregarse más de 1,000 leads</label>
+        <name>No_more_than_1000_leads_can_be_added</name>
+    </customLabels>
+    <customLabels>
+        <label>Sin calificaciones para</label>
+        <name>No_scores_for_Message</name>
+    </customLabels>
+    <customLabels>
+        <label>Sin actividad en la Web para</label>
+        <name>No_web_activity_for</name>
+    </customLabels>
+    <customLabels>
+        <label>No se encontró</label>
+        <name>Not_Found</name>
+    </customLabels>
+    <customLabels>
+        <label>Aviso</label>
+        <name>Notice</name>
+    </customLabels>
+    <customLabels>
+        <label>Uno o más destinatarios se están sincronizando con Marketo;</label>
+        <name>One_or_more_recipients_are_synchronizing</name>
+    </customLabels>
+    <customLabels>
+        <label>Uno o más destinatarios poseen una dirección de correo electrónico no válida o no se la puede encontrar</label>
+        <name>One_or_more_recipients_has_a_missing_or_invalid_email_address</name>
+    </customLabels>
+    <customLabels>
+        <label>No se pudo enviar el email. Uno o más fichas en el correo electrónico no se reconocieron. Confirme los tokens y vuelva a intentarlo.</label>
+        <name>One_or_more_tokens_in_the_email_were_not_recognized</name>
+    </customLabels>
+    <customLabels>
+        <label>Abierto</label>
+        <name>Opened</name>
+    </customLabels>
+    <customLabels>
+        <label>Se abrió al menos una vez</label>
+        <name>Opened_at_least_once</name>
+    </customLabels>
+    <customLabels>
+        <label>Operador</label>
+        <name>Operator</name>
+    </customLabels>
+    <customLabels>
+        <label>Analizador de influencia de oportunidad</label>
+        <name>Opportunity_Influence_Analyzer</name>
+    </customLabels>
+    <customLabels>
+        <label>Etapa de oportunidad (predeterminada)</label>
+        <name>Opportunity_Stage_default</name>
+    </customLabels>
+    <customLabels>
+        <label>---- Cuenta ----</label>
+        <name>Option_Account</name>
+    </customLabels>
+    <customLabels>
+        <label>Todos los contactos</label>
+        <name>Option_All_Contacts</name>
+    </customLabels>
+    <customLabels>
+        <label>Todos los leads</label>
+        <name>Option_All_Leads</name>
+    </customLabels>
+    <customLabels>
+        <label>Mis contactos</label>
+        <name>Option_My_Contacts</name>
+    </customLabels>
+    <customLabels>
+        <label>Mis leads</label>
+        <name>Option_My_Leads</name>
+    </customLabels>
+    <customLabels>
+        <label>Los contactos de mi equipo</label>
+        <name>Option_My_Teams_Contacts</name>
+    </customLabels>
+    <customLabels>
+        <label>Los leads de mi equipo</label>
+        <name>Option_My_Teams_Leads</name>
+    </customLabels>
+    <customLabels>
+        <label>--Nadie--</label>
+        <name>Option_None</name>
+    </customLabels>
+    <customLabels>
+        <label>Nombre del propietario</label>
+        <name>Owner_Name_Header</name>
+    </customLabels>
+    <customLabels>
+        <label>Vistas de páginas</label>
+        <name>Page_Views</name>
+    </customLabels>
+    <customLabels>
+        <label>Elija al menos un {0} para agregar a la campaña de Marketo.</label>
+        <name>Please_choose_at_least_one_contactType</name>
+    </customLabels>
+    <customLabels>
+        <label>Incluya una captura de pantalla de esta página cuando se comunique con el soporte técnico.</label>
+        <name>Please_include_a_screenshot_of_this_page_when_contacting_support</name>
+    </customLabels>
+    <customLabels>
+        <label>Incluya capturas de pantalla de esta página</label>
+        <name>Please_include_screenshots_of_this_page</name>
+    </customLabels>
+    <customLabels>
+        <label>Página anterior</label>
+        <name>Previous_Page</name>
+    </customLabels>
+    <customLabels>
+        <label>Prioridad</label>
+        <name>Priority_Detail_Header</name>
+    </customLabels>
+    <customLabels>
+        <label>Prioridad</label>
+        <name>Priority_Score_Header</name>
+    </customLabels>
+    <customLabels>
+        <label>RCA habilitado</label>
+        <name>RCA_Enabled</name>
+    </customLabels>
+    <customLabels>
+        <label>Fuente RSS habilitada</label>
+        <name>RSS_Feed_Enabled</name>
+    </customLabels>
+    <customLabels>
+        <label>Valor sin procesar</label>
+        <name>Raw_Value</name>
+    </customLabels>
+    <customLabels>
+        <label>Eliminar</label>
+        <name>Remove</name>
+    </customLabels>
+    <customLabels>
+        <label>Quitar de lista de observación</label>
+        <name>Remove_from_Watch_List</name>
+    </customLabels>
+    <customLabels>
+        <label>Es necesaria la suscripción RCA de Marketo</label>
+        <name>Requires_Marketo_RCA_subscription</name>
+    </customLabels>
+    <customLabels>
+        <label>Investigación</label>
+        <name>Research</name>
+    </customLabels>
+    <customLabels>
+        <label>Reiniciar configuración</label>
+        <name>Reset_Configuration</name>
+    </customLabels>
+    <customLabels>
+        <label>Opciones de Sales Insight</label>
+        <name>Sales_Insight_Options</name>
+    </customLabels>
+    <customLabels>
+        <label>Guardar</label>
+        <name>Save</name>
+    </customLabels>
+    <customLabels>
+        <label>Guardar cambios</label>
+        <name>Save_Changes</name>
+    </customLabels>
+    <customLabels>
+        <label>Nombre del puntaje</label>
+        <name>Score_Name</name>
+    </customLabels>
+    <customLabels>
+        <label>Puntaje</label>
+        <name>Score_Tab</name>
+    </customLabels>
+    <customLabels>
+        <label>Calificación</label>
+        <name>Scoring</name>
+    </customLabels>
+    <customLabels>
+        <label>Campos de puntuación</label>
+        <name>Scoring_Fields</name>
+    </customLabels>
+    <customLabels>
+        <label>Buscar Jigsaw</label>
+        <name>Search_Jigsaw</name>
+    </customLabels>
+    <customLabels>
+        <label>Buscar Linked In</label>
+        <name>Search_Linked_In</name>
+    </customLabels>
+    <customLabels>
+        <label>Buscar/Referencia</label>
+        <name>Search_or_Referrer</name>
+    </customLabels>
+    <customLabels>
+        <label>-- Seleccionar --</label>
+        <name>Select_Option</name>
+    </customLabels>
+    <customLabels>
+        <label>Seleccionado</label>
+        <name>Selected</name>
+    </customLabels>
+    <customLabels>
+        <label>Enviar correo electrónico a</label>
+        <name>Send_Email_To</name>
+    </customLabels>
+    <customLabels>
+        <label>Enviar correo electrónico de Marketo</label>
+        <name>Send_Marketo_Email</name>
+    </customLabels>
+    <customLabels>
+        <label>Envío de correo electrónico de Marketo sin errores: identificación de la campaña</label>
+        <name>Send_Marketo_Email_success_Campaign_ID</name>
+    </customLabels>
+    <customLabels>
+        <label>Solo mostrar</label>
+        <name>Show_Only</name>
+    </customLabels>
+    <customLabels>
+        <label>Mostrar registros con puntaje negativo</label>
+        <name>Show_records_with_negative_score</name>
+    </customLabels>
+    <customLabels>
+        <label>Omitir el mensaje de bienvenida</label>
+        <name>Skip_Welcome_Message</name>
+    </customLabels>
+    <customLabels>
+        <label>Estrellas</label>
+        <name>Stars</name>
+    </customLabels>
+    <customLabels>
+        <label>Encabezado de estado</label>
+        <name>Status_Header</name>
+    </customLabels>
+    <customLabels>
+        <label>Estado</label>
+        <name>Status_Message</name>
+    </customLabels>
+    <customLabels>
+        <label>Paso 1. Ingresar la información de vista</label>
+        <name>Step_1_Enter_View_Information</name>
+    </customLabels>
+    <customLabels>
+        <label>Paso 2. Filtrar por campos adicionales (opcional)</label>
+        <name>Step_2_Filter_by_Additional_Fields</name>
+    </customLabels>
+    <customLabels>
+        <label>Paso 4. Seleccionar campos adicionales para mostrar (opcional)</label>
+        <name>Step_4_Select_Additional_Fields_to_Display</name>
+    </customLabels>
+    <customLabels>
+        <label>Secuencia</label>
+        <name>Stream</name>
+    </customLabels>
+    <customLabels>
+        <label>Asunto</label>
+        <name>Subject</name>
+    </customLabels>
+    <customLabels>
+        <label>Suscribirse</label>
+        <name>Subscribe</name>
+    </customLabels>
+    <customLabels>
+        <label>Suscribirse a las alertas por correo electrónico para este tipo de momento interesante</label>
+        <name>Subscribe_to_email_alerts_for_this_kind_of_Interesting_Moment</name>
+    </customLabels>
+    <customLabels>
+        <label>¡Muy caliente!</label>
+        <name>Super_Hot</name>
+    </customLabels>
+    <customLabels>
+        <label>Plantilla</label>
+        <name>Template</name>
+    </customLabels>
+    <customLabels>
+        <label>Descripción de la plantilla</label>
+        <name>Template_Description</name>
+    </customLabels>
+    <customLabels>
+        <label>La prueba falló</label>
+        <name>Test_Failed</name>
+    </customLabels>
+    <customLabels>
+        <label>Esa plantilla de correo electrónico no existe; elija una plantilla distinta</label>
+        <name>That_email_template_does_not_exist</name>
+    </customLabels>
+    <customLabels>
+        <label>No hay ninguna campaña de Marketo disponible</label>
+        <name>There_are_no_Marketo_campaigns_available</name>
+    </customLabels>
+    <customLabels>
+        <label>No hay destinatarios válidos del correo electrónico</label>
+        <name>There_are_no_valid_email_recipients</name>
+    </customLabels>
+    <customLabels>
+        <label>Hubo un problema al recuperar esta información</label>
+        <name>There_was_a_problem_retrieving_this_information</name>
+    </customLabels>
+    <customLabels>
+        <label>Hubo un problema al recuperar esta información (no hubo respuesta del servidor)</label>
+        <name>There_was_a_problem_retrieving_this_information_no_response_from_server</name>
+    </customLabels>
+    <customLabels>
+        <label>Esta vista personalizada no funciona correctamente</label>
+        <name>This_custom_view_is_not_behaving</name>
+    </customLabels>
+    <customLabels>
+        <label>Este lead no tiene contactos</label>
+        <name>This_lead_has_no_contact</name>
+    </customLabels>
+    <customLabels>
+        <label>Esta persona aún no se encuentra lista en Marketo. Inténtelo nuevamente en unos minutos</label>
+        <name>This_person_is_not_yet_ready_in_Marketo</name>
+    </customLabels>
+    <customLabels>
+        <label>Este usuario aún no existe en Marketo</label>
+        <name>This_user_does_not_yet_exist_in_Marketo</name>
+    </customLabels>
+    <customLabels>
+        <label>Esto eliminará toda la configuración</label>
+        <name>This_will_erase_all_configuration_settings</name>
+    </customLabels>
+    <customLabels>
+        <label>Plazo de tiempo</label>
+        <name>Time_Frame</name>
+    </customLabels>
+    <customLabels>
+        <label>hora(s)</label>
+        <name>Time_s</name>
+    </customLabels>
+    <customLabels>
+        <label>Hasta</label>
+        <name>To_Message</name>
+    </customLabels>
+    <customLabels>
+        <label>hoy</label>
+        <name>Today</name>
+    </customLabels>
+    <customLabels>
+        <label>Total</label>
+        <name>Total</name>
+    </customLabels>
+    <customLabels>
+        <label>Solución de problemas</label>
+        <name>Troubleshooting</name>
+    </customLabels>
+    <customLabels>
+        <label>Tipo</label>
+        <name>Type</name>
+    </customLabels>
+    <customLabels>
+        <label>Mostrar</label>
+        <name>Unhide_Action</name>
+    </customLabels>
+    <customLabels>
+        <label>Mostrar las opciones más probables</label>
+        <name>Unhide_Best_Bet</name>
+    </customLabels>
+    <customLabels>
+        <label>Valor</label>
+        <name>Value</name>
+    </customLabels>
+    <customLabels>
+        <label>Tipo de valor</label>
+        <name>Value_Type</name>
+    </customLabels>
+    <customLabels>
+        <label>Ver</label>
+        <name>View</name>
+    </customLabels>
+    <customLabels>
+        <label>Ver cuenta</label>
+        <name>View_Account</name>
+    </customLabels>
+    <customLabels>
+        <label>Ver contacto</label>
+        <name>View_Contact</name>
+    </customLabels>
+    <customLabels>
+        <label>Ver correo electrónico</label>
+        <name>View_Email</name>
+    </customLabels>
+    <customLabels>
+        <label>Ver en Marketo</label>
+        <name>View_In_Marketo</name>
+    </customLabels>
+    <customLabels>
+        <label>Ver nombre</label>
+        <name>View_Name</name>
+    </customLabels>
+    <customLabels>
+        <label>Ver propiedades</label>
+        <name>View_Properties</name>
+    </customLabels>
+    <customLabels>
+        <label>Ver lista de observación</label>
+        <name>View_Watch_List</name>
+    </customLabels>
+    <customLabels>
+        <label>Tibio</label>
+        <name>Warm</name>
+    </customLabels>
+    <customLabels>
+        <label>Observación</label>
+        <name>Watch</name>
+    </customLabels>
+    <customLabels>
+        <label>Lista de observación</label>
+        <name>Watch_List</name>
+    </customLabels>
+    <customLabels>
+        <label>Observado</label>
+        <name>Watched</name>
+    </customLabels>
+    <customLabels>
+        <label>Web</label>
+        <name>Web</name>
+    </customLabels>
+    <customLabels>
+        <label>Actividad en la web</label>
+        <name>Web_Activity</name>
+    </customLabels>
+    <customLabels>
+        <label>Actividad en la web</label>
+        <name>Web_Activity_Tab</name>
+    </customLabels>
+    <customLabels>
+        <label>Página web</label>
+        <name>Web_Page</name>
+    </customLabels>
+    <customLabels>
+        <label>Novedades</label>
+        <name>What_Is_New</name>
+    </customLabels>
+    <customLabels>
+        <label>ayer</label>
+        <name>Yesterday</name>
+    </customLabels>
+    <customLabels>
+        <label>No tiene suficientes permisos para realizar esta acción</label>
+        <name>You_do_not_have_sufficient_permissions_to_perform_this_action</name>
+    </customLabels>
+    <customLabels>
+        <label>No tiene suficientes permisos para enviar el correo electrónico</label>
+        <name>You_do_not_have_sufficient_permissions_to_send_email</name>
+    </customLabels>
+    <customLabels>
+        <label>Sus plantillas de correo electrónico ahora están organizadas en carpetas</label>
+        <name>Your_Email_Templates_are_now_organized_into_folders</name>
+    </customLabels>
+    <customLabels>
+        <label>El cuerpo de su correo electrónico tiene errores de HTML</label>
+        <name>Your_email_body_has_HTML_errors</name>
+    </customLabels>
+    <customLabels>
+        <label>Su correo electrónico tiene un token no válido</label>
+        <name>Your_email_contains_an_invalid_token</name>
+    </customLabels>
+    <customLabels>
+        <label>No se pudo enviar su correo electrónico</label>
+        <name>Your_email_could_not_be_sent</name>
+    </customLabels>
+    <customLabels>
+        <label>Su correo electrónico necesita un cuerpo de mensaje</label>
+        <name>Your_email_needs_a_body</name>
+    </customLabels>
+    <customLabels>
+        <label>Su correo electrónico necesita un asunto</label>
+        <name>Your_email_needs_a_subject</name>
+    </customLabels>
+    <customLabels>
+        <label>No se encontró {0} (identificación: {1})</label>
+        <name>currentSObjectType_not_found</name>
+    </customLabels>
+    <customLabels>
+        <label>días</label>
+        <name>days</name>
+    </customLabels>
+    <customLabels>
+        <label>días atrás</label>
+        <name>days_ago</name>
+    </customLabels>
+    <customLabels>
+        <label>Editar la vista</label>
+        <name>edit_the_view_link</name>
+    </customLabels>
+    <customLabels>
+        <label>para</label>
+        <name>for</name>
+    </customLabels>
+    <customLabels>
+        <label>para No encontrado</label>
+        <name>for_Not_Found</name>
+    </customLabels>
+    <customLabels>
+        <label>horas atrás</label>
+        <name>hours_ago</name>
+    </customLabels>
+    <customLabels>
+        <label>ya no está oculto</label>
+        <name>is_no_longer_hidden</name>
+    </customLabels>
+    <customLabels>
+        <label>recién</label>
+        <name>just_now</name>
+    </customLabels>
+    <customLabels>
+        <label>minutos atrás</label>
+        <name>minutes_ago</name>
+    </customLabels>
+    <customLabels>
+        <label>meses atrás</label>
+        <name>months_ago</name>
+    </customLabels>
+    <customLabels>
+        <label>hace 1 hora</label>
+        <name>one_hour_ago</name>
+    </customLabels>
+    <customLabels>
+        <label>hace 1 minuto</label>
+        <name>one_minute_ago</name>
+    </customLabels>
+    <customLabels>
+        <label>los últimos 14 días</label>
+        <name>past_14_days</name>
+    </customLabels>
+    <customLabels>
+        <label>los últimos 2 días</label>
+        <name>past_2_days</name>
+    </customLabels>
+    <customLabels>
+        <label>los últimos 3 días</label>
+        <name>past_3_days</name>
+    </customLabels>
+    <customLabels>
+        <label>los últimos 5 días</label>
+        <name>past_5_days</name>
+    </customLabels>
+    <customLabels>
+        <label>los últimos 7 días</label>
+        <name>past_7_days</name>
+    </customLabels>
+    <customLabels>
+        <label>para aumentar páginas o</label>
+        <name>to_increase_pages_or</name>
+    </customLabels>
+    <customLabels>
+        <label>para ver actividad anónima en la Web</label>
+        <name>to_view_anonymous_web_activity</name>
+    </customLabels>
+    <customLabels>
+        <label>intente nuevamente en unos minutos</label>
+        <name>try_again_in_a_few_minutes</name>
+    </customLabels>
+    <customLabels>
+        <label>deshacer</label>
+        <name>undo</name>
+    </customLabels>
+    <customLabels>
+        <label>utilice comas para separar direcciones múltiples</label>
+        <name>use_comma_separated_for_multiple_addresses</name>
+    </customLabels>
+    <customLabels>
+        <label>se quitó de su lista de observación</label>
+        <name>was_removed_from_your_watch_list</name>
+    </customLabels>
+    <customLabels>
+        <label>semanas atrás</label>
+        <name>weeks_ago</name>
+    </customLabels>
+    <customLabels>
+        <label>se ocultará para</label>
+        <name>will_be_hidden_for</name>
+    </customLabels>
+    <customTabs>
+        <label><!-- Marketo --></label>
+        <name>Marketo</name>
+    </customTabs>
+    <quickActions>
+        <label><!-- Marketo Mobile Global --></label>
+        <name>Marketo_Mobile_Global</name>
+    </quickActions>
+    <scontrols>
+        <label><!-- Dashboard Loader --></label>
+        <name>DashboardLoader</name>
+    </scontrols>
+</Translations>

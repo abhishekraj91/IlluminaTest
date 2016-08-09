@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>ユーザ設定</value>
+    </caseValues>
+    <fields>
+        <label>最優先ビュー</label>
+        <name>BestBetsView__c</name>
+    </fields>
+    <fields>
+        <label>最新の What&apos;s new バージョン</label>
+        <name>LastWhatIsNewVersion__c</name>
+    </fields>
+    <fields>
+        <label>匿名ウェブアクティビティ最大ページ数</label>
+        <name>MaxPagesAWA__c</name>
+    </fields>
+    <fields>
+        <label>注目の出来事最大ページ数</label>
+        <name>MaxPagesIM__c</name>
+    </fields>
+    <fields>
+        <label>マイ最優先最大ページ数</label>
+        <name>MaxPagesMBB__c</name>
+    </fields>
+    <fields>
+        <label>マイメール最大ページ数</label>
+        <name>MaxPagesME__c</name>
+    </fields>
+    <fields>
+        <label>マイ最優先最大ページ数 (非表示)</label>
+        <name>MaxPagesMHBB__c</name>
+    </fields>
+    <fields>
+        <label>マイチームの最優先最大ページ数</label>
+        <name>MaxPagesMTBB__c</name>
+    </fields>
+    <fields>
+        <label>マイウォッチリスト最大ページ数</label>
+        <name>MaxPagesMWL__c</name>
+    </fields>
+    <fields>
+        <label>スコア最大ページ数</label>
+        <name>MaxPagesSC__c</name>
+    </fields>
+    <fields>
+        <label>ウェブアクティビティ最大ページ数</label>
+        <name>MaxPagesWA__c</name>
+    </fields>
+    <fields>
+        <label>最大ページ数</label>
+        <name>MaxPages__c</name>
+    </fields>
+    <fields>
+        <label>What&apos;s new の表示</label>
+        <name>ShowWhatIsNew__c</name>
+    </fields>
+    <fields>
+        <label>タイムフレーム日数</label>
+        <name>TimeFrameDays__c</name>
+    </fields>
+</CustomObjectTranslation>

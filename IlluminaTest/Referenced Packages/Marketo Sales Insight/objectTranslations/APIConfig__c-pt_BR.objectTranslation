@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Configuração de API</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Configuração de API</value>
+    </caseValues>
+    <fields>
+        <label>Chave secreta da API</label>
+        <name>API_Secret_Key__c</name>
+    </fields>
+    <fields>
+        <label>API_URL</label>
+        <name>API_URL__c</name>
+    </fields>
+    <fields>
+        <label>ID do usuário da API</label>
+        <name>API_User_Id__c</name>
+    </fields>
+    <fields>
+        <label>Modo de depuração das melhores opções</label>
+        <name>BestBetsDebugMode__c</name>
+    </fields>
+    <fields>
+        <label>Campo de status do contato</label>
+        <name>ContactStatusField__c</name>
+    </fields>
+    <fields>
+        <label>Padrão de dias a ocultar</label>
+        <name>DefaultHideDays__c</name>
+    </fields>
+    <fields>
+        <label>Ativar API do Marketo</label>
+        <name>Enable_Marketo_API__c</name>
+    </fields>
+    <fields>
+        <label>Mostrar ícone de RSS</label>
+        <name>Enable_RSS__c</name>
+    </fields>
+    <fields>
+        <label>Host do Marketo</label>
+        <name>Marketo_Host__c</name>
+    </fields>
+    <fields>
+        <label>Ativado para RCA</label>
+        <name>RcaEnabled__c</name>
+    </fields>
+    <fields>
+        <label>Nome do campo de marcar pontuação</label>
+        <name>ScoreScoringFieldName__c</name>
+    </fields>
+    <fields>
+        <label>Nome do campo de pontuação de urgência</label>
+        <name>UrgencyScoringFieldName__c</name>
+    </fields>
+    <gender>Feminine</gender>
+</CustomObjectTranslation>

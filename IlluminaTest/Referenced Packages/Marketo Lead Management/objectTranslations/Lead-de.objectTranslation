@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label>Akquirierungsdatum</label>
+        <name>Acquisition_Date__c</name>
+    </fields>
+    <fields>
+        <label>Akquisitionsprogramm-ID</label>
+        <name>Acquisition_Program_Id__c</name>
+    </fields>
+    <fields>
+        <label>Akquisitionsprogramm</label>
+        <name>Acquisition_Program__c</name>
+    </fields>
+    <fields>
+        <label>Abgeleiteter Ort</label>
+        <name>Inferred_City__c</name>
+    </fields>
+    <fields>
+        <label>Abgeleitetes Unternehmen</label>
+        <name>Inferred_Company__c</name>
+    </fields>
+    <fields>
+        <label>Abgeleitetes Land</label>
+        <name>Inferred_Country__c</name>
+    </fields>
+    <fields>
+        <label>Abgeleiteter Stadtbereich</label>
+        <name>Inferred_Metropolitan_Area__c</name>
+    </fields>
+    <fields>
+        <label>Abgleitete Vorwahl</label>
+        <name>Inferred_Phone_Area_Code__c</name>
+    </fields>
+    <fields>
+        <label>Abgeleitete Postleitzahl</label>
+        <name>Inferred_Postal_Code__c</name>
+    </fields>
+    <fields>
+        <label>Abgeleitetes Bundesland/abgeleitete Region</label>
+        <name>Inferred_State_Region__c</name>
+    </fields>
+    <fields>
+        <label>Lead-Bewertung</label>
+        <name>Lead_Score__c</name>
+    </fields>
+    <fields>
+        <label>Ursprünglicher Verweis</label>
+        <name>Original_Referrer__c</name>
+    </fields>
+    <fields>
+        <label>Ursprüngliche Such-Engine</label>
+        <name>Original_Search_Engine__c</name>
+    </fields>
+    <fields>
+        <label>Ursprünglicher Suchausdruck</label>
+        <name>Original_Search_Phrase__c</name>
+    </fields>
+    <fields>
+        <label>Ursprüngliche Quelleninfo</label>
+        <name>Original_Source_Info__c</name>
+    </fields>
+    <fields>
+        <label>Ursprünglicher Quellentyp</label>
+        <name>Original_Source_Type__c</name>
+    </fields>
+</CustomObjectTranslation>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Preferencias del usuario</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Preferencias del usuario</value>
+    </caseValues>
+    <fields>
+        <label>Vista de las opciones más probables</label>
+        <name>BestBetsView__c</name>
+    </fields>
+    <fields>
+        <label>Última versión de novedades</label>
+        <name>LastWhatIsNewVersion__c</name>
+    </fields>
+    <fields>
+        <label>Cantidad máxima de páginas de actividad anónima en la Web</label>
+        <name>MaxPagesAWA__c</name>
+    </fields>
+    <fields>
+        <label>Cantidad máxima de páginas de momentos interesantes</label>
+        <name>MaxPagesIM__c</name>
+    </fields>
+    <fields>
+        <label>Cantidad máxima de páginas de mis opciones más probables</label>
+        <name>MaxPagesMBB__c</name>
+    </fields>
+    <fields>
+        <label>Cantidad máxima de páginas de mi correo electrónico</label>
+        <name>MaxPagesME__c</name>
+    </fields>
+    <fields>
+        <label>Cantidad máxima de páginas de mis opciones más probables (ocultas)</label>
+        <name>MaxPagesMHBB__c</name>
+    </fields>
+    <fields>
+        <label>Cantidad máxima de páginas de las opciones más probables de mi equipo</label>
+        <name>MaxPagesMTBB__c</name>
+    </fields>
+    <fields>
+        <label>Cantidad máxima de páginas de mi lista de observación</label>
+        <name>MaxPagesMWL__c</name>
+    </fields>
+    <fields>
+        <label>Cantidad máxima de páginas de puntaje</label>
+        <name>MaxPagesSC__c</name>
+    </fields>
+    <fields>
+        <label>Cantidad máxima de páginas de actividad en la Web</label>
+        <name>MaxPagesWA__c</name>
+    </fields>
+    <fields>
+        <label>Cantidad máxima de páginas</label>
+        <name>MaxPages__c</name>
+    </fields>
+    <fields>
+        <label>Mostrar novedades</label>
+        <name>ShowWhatIsNew__c</name>
+    </fields>
+    <fields>
+        <label>Días de plazo</label>
+        <name>TimeFrameDays__c</name>
+    </fields>
+    <gender>Feminine</gender>
+</CustomObjectTranslation>

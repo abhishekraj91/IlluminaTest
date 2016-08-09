@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label>à_Acquisition Date_ü</label>
+        <name>Acquisition_Date__c</name>
+    </fields>
+    <fields>
+        <label>à_Acquisition Program Id_ü</label>
+        <name>Acquisition_Program_Id__c</name>
+    </fields>
+    <fields>
+        <label>à_Acquisition Program_ü</label>
+        <name>Acquisition_Program__c</name>
+    </fields>
+    <fields>
+        <label>à_Inferred City_ü</label>
+        <name>Inferred_City__c</name>
+    </fields>
+    <fields>
+        <label>à_Inferred Company_ü</label>
+        <name>Inferred_Company__c</name>
+    </fields>
+    <fields>
+        <label>à_Inferred Country_ü</label>
+        <name>Inferred_Country__c</name>
+    </fields>
+    <fields>
+        <label>à_Inferred Metropolitan Area_ü</label>
+        <name>Inferred_Metropolitan_Area__c</name>
+    </fields>
+    <fields>
+        <label>à_Inferred Phone Area Code_ü</label>
+        <name>Inferred_Phone_Area_Code__c</name>
+    </fields>
+    <fields>
+        <label>à_Inferred Postal Code_ü</label>
+        <name>Inferred_Postal_Code__c</name>
+    </fields>
+    <fields>
+        <label>à_Inferred State Region_ü</label>
+        <name>Inferred_State_Region__c</name>
+    </fields>
+    <fields>
+        <label>à_Lead Score_ü</label>
+        <name>Lead_Score__c</name>
+    </fields>
+    <fields>
+        <label>à_Original Referrer_ü</label>
+        <name>Original_Referrer__c</name>
+    </fields>
+    <fields>
+        <label>à_Original Search Engine_ü</label>
+        <name>Original_Search_Engine__c</name>
+    </fields>
+    <fields>
+        <label>à_Original Search Phrase_ü</label>
+        <name>Original_Search_Phrase__c</name>
+    </fields>
+    <fields>
+        <label>à_Original Source Info_ü</label>
+        <name>Original_Source_Info__c</name>
+    </fields>
+    <fields>
+        <label>à_Original Source Type_ü</label>
+        <name>Original_Source_Type__c</name>
+    </fields>
+</CustomObjectTranslation>

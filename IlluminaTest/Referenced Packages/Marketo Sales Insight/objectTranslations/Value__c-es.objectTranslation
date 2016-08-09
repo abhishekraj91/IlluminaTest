@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Valor</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Valor</value>
+    </caseValues>
+    <fields>
+        <label>Booleano</label>
+        <name>Boolean__c</name>
+    </fields>
+    <fields>
+        <label>Moneda</label>
+        <name>Currency__c</name>
+    </fields>
+    <fields>
+        <label>DateTime</label>
+        <name>DateTime__c</name>
+    </fields>
+    <fields>
+        <label>Fecha</label>
+        <name>Date__c</name>
+    </fields>
+    <fields>
+        <label>Doble</label>
+        <name>Double__c</name>
+    </fields>
+    <fields>
+        <label>Correo electrónico</label>
+        <name>Email__c</name>
+    </fields>
+    <fields>
+        <label>Porcentaje</label>
+        <name>Percent__c</name>
+    </fields>
+    <fields>
+        <label>Teléfono</label>
+        <name>Phone__c</name>
+    </fields>
+    <fields>
+        <label>Cadena</label>
+        <name>String__c</name>
+    </fields>
+    <fields>
+        <label>Área de texto</label>
+        <name>TextArea__c</name>
+    </fields>
+    <fields>
+        <label>Url</label>
+        <name>Url__c</name>
+    </fields>
+    <fields>
+        <label>Tipo de valor</label>
+        <name>ValueType__c</name>
+        <picklistValues>
+            <masterLabel>Boolean</masterLabel>
+            <translation><!-- Boolean --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Date</masterLabel>
+            <translation><!-- Date --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Datetime</masterLabel>
+            <translation><!-- Datetime --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Picklist</masterLabel>
+            <translation><!-- Picklist --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TextArea</masterLabel>
+            <translation><!-- TextArea --></translation>
+        </picklistValues>
+    </fields>
+    <gender>Feminine</gender>
+    <layouts>
+        <layout>Value Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel>Value Name</nameFieldLabel>
+</CustomObjectTranslation>

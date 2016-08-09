@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>値</value>
+    </caseValues>
+    <fields>
+        <label>ブール値</label>
+        <name>Boolean__c</name>
+    </fields>
+    <fields>
+        <label>通貨</label>
+        <name>Currency__c</name>
+    </fields>
+    <fields>
+        <label>日時</label>
+        <name>DateTime__c</name>
+    </fields>
+    <fields>
+        <label>日</label>
+        <name>Date__c</name>
+    </fields>
+    <fields>
+        <label>ダブル</label>
+        <name>Double__c</name>
+    </fields>
+    <fields>
+        <label>メール</label>
+        <name>Email__c</name>
+    </fields>
+    <fields>
+        <label>パーセント</label>
+        <name>Percent__c</name>
+    </fields>
+    <fields>
+        <label>電話</label>
+        <name>Phone__c</name>
+    </fields>
+    <fields>
+        <label>文字列</label>
+        <name>String__c</name>
+    </fields>
+    <fields>
+        <label>テキスト エリア</label>
+        <name>TextArea__c</name>
+    </fields>
+    <fields>
+        <label>URL</label>
+        <name>Url__c</name>
+    </fields>
+    <fields>
+        <label>値のタイプ</label>
+        <name>ValueType__c</name>
+        <picklistValues>
+            <masterLabel>Boolean</masterLabel>
+            <translation><!-- Boolean --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Date</masterLabel>
+            <translation><!-- Date --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Datetime</masterLabel>
+            <translation><!-- Datetime --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Picklist</masterLabel>
+            <translation><!-- Picklist --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TextArea</masterLabel>
+            <translation><!-- TextArea --></translation>
+        </picklistValues>
+    </fields>
+    <layouts>
+        <layout>Value Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel>Value Name</nameFieldLabel>
+</CustomObjectTranslation>
